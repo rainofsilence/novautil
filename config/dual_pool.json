@@ -1,0 +1,16 @@
+{
+  "poolA": {
+    "name": "前端组",
+    "people": [
+      {"name": "赵六", "employeeId": "FE001"},
+      {"name": "钱七", "employeeId": "FE002"}
+    ]
+  },
+  "poolB": {
+    "name": "后端组",
+    "people": [
+      {"name": "孙八", "employeeId": "BE001"},
+      {"name": "周九", "employeeId": "BE002"}
+    ]
+  }
+}
