@@ -43,4 +43,5 @@ bin/
 .DS_Store
 
 .idea/
-/.uncommit/
+.uncommit/
+!**/src/main/**/.uncommit/**
