@@ -3,6 +3,7 @@
   "people": [
     {"name": "张三", "employeeId": "DEV001"},
     {"name": "李四", "employeeId": "DEV002"},
-    {"name": "王五", "employeeId": "DEV003"}
+    {"name": "王五", "employeeId": "DEV003"},
+    {"name": "麻六", "employeeId": "DEV004"}
   ]
 }

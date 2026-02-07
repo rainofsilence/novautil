@@ -10,7 +10,8 @@
     "name": "后端组",
     "people": [
       {"name": "孙八", "employeeId": "BE001"},
-      {"name": "周九", "employeeId": "BE002"}
+      {"name": "周九", "employeeId": "BE002"},
+      {"name": "林十", "employeeId": "BE003"}
     ]
   }
 }

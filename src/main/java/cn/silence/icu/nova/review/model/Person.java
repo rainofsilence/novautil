@@ -1,15 +1,16 @@
-package cn.silence.icu;
+package cn.silence.icu.nova.review.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 import java.util.Objects;
 
 /**
- * @author Eych4o
+ * @author rainofsilence
  * @version 1.0.0
  * @since 2026/02/05 20:29 周四
  */
 public final class Person {
+
     @JsonProperty("name")
     private final String name;
 

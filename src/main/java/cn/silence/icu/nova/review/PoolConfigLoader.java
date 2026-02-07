@@ -1,5 +1,6 @@
-package cn.silence.icu;
+package cn.silence.icu.nova.review;
 
+import cn.silence.icu.nova.review.model.Person;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -16,7 +17,7 @@ import java.util.Map;
  * @version 1.0.0
  * @since 2026/02/05 20:32 周四
  */
-public class JsonConfigLoader {
+public class PoolConfigLoader {
     private static final ObjectMapper MAPPER = new ObjectMapper()
             .registerModule(new JavaTimeModule())
             .configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
