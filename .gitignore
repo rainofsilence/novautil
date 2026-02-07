@@ -44,4 +44,4 @@ bin/
 
 .idea/
 .uncommit/
-!**/src/main/**/.uncommit/**
+!**/src/main/**/.uncommit/
