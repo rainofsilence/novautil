@@ -1,6 +1,6 @@
-package cn.silence.icu.nova.review;
+package cn.silence.icu.novautil.review.core;
 
-import cn.silence.icu.nova.review.model.Person;
+import cn.silence.icu.novautil.review.model.Person;
 
 import java.util.*;
 import java.util.stream.Collectors;

@@ -1,4 +1,4 @@
-package cn.silence.icu.nova.review.model;
+package cn.silence.icu.novautil.review.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

@@ -1,7 +1,7 @@
-package cn.silence.icu.nova.review;
+package cn.silence.icu.novautil.review.core;
 
-import cn.silence.icu.nova.review.model.Person;
-import cn.silence.icu.nova.util.FormatUtils;
+import cn.silence.icu.novautil.review.model.Person;
+import cn.silence.icu.novautil.util.FormatUtils;
 
 import java.util.List;
 import java.util.Map;

@@ -1,6 +1,6 @@
-package cn.silence.icu.nova.review;
+package cn.silence.icu.novautil.review.config;
 
-import cn.silence.icu.nova.review.model.Person;
+import cn.silence.icu.novautil.review.model.Person;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;

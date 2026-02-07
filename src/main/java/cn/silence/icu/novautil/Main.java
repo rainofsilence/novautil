@@ -1,4 +1,4 @@
-package cn.silence.icu.nova;
+package cn.silence.icu.novautil;
 
 /**
  * @author rainofsilence
